@@ -1,0 +1,6 @@
+Hello, this is line 1.
+This is line 2 with a number: 42
+And here is line 3 with a mix of text and numbers: 12345
+This is an appended line 4.
+Appending line 5 with another number: 6789
+Finally, appended line 6 with mixed content: Hello123
